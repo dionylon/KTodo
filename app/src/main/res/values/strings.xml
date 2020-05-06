@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">KTodo</string>
+
+    <string name="go">go</string>
+    <string name="event">Event</string>
+    <string name="deadline">DeadLine</string>
+    <string name="description">Description</string>
+    <string name="saveSuccess">Save Success</string>
+    <string name="updateSuccess">Update Success</string>
+    <string name="clearConfirm">Are you sure to clear all todo?</string>
+    <string name="deleteConfirm">Are you sure to delete?</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="search">Search</string>
+    <string name="clear">Clear All</string>
+    <string name="removeMessage">Remove todo item</string>
+    <string name="undo">undo</string>
+    <string name="exitHint">Press again to exit</string>
+    <string name="addEvent">Add a Todo</string>
+    <string name="changeView">Change View</string>
+    <string name="delete">delete</string>
+    <string name="deleteResult">Deleted a item</string>
+    <string name="update">update</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">备忘录</string>
+    <string name="go">确定</string>
+    <string name="event">事件</string>
+    <string name="deadline">时间</string>
+    <string name="description">描述</string>
+    <string name="saveSuccess">保存成功</string>
+    <string name="clearConfirm">确定要清除所有吗？</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="search">搜索</string>
+    <string name="clear">清除全部</string>
+    <string name="removeMessage">删除了一个事项</string>
+    <string name="undo">撤销</string>
+    <string name="exitHint">再按一次退出</string>
+    <string name="addEvent">新建一个事项</string>
+    <string name="delete">删除</string>
+    <string name="updateSuccess">更新成功</string>
+    <string name="deleteConfirm">确定要删除吗</string>
+    <string name="deleteResult">删除了一个事项</string>
+    <string name="update">更新</string>
+    <string name="changeView">改变视图</string>
+</resources>

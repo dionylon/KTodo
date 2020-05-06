@@ -1,0 +1,2 @@
+rootProject.name='KTodo'
+include ':app'
